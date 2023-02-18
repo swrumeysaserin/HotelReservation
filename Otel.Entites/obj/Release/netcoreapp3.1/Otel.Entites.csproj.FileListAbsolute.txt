@@ -1,0 +1,13 @@
+C:\git-repos\otel-sinif\Otel.Entites\bin\Release\netcoreapp3.1\Otel.Entites.deps.json
+C:\git-repos\otel-sinif\Otel.Entites\bin\Release\netcoreapp3.1\Otel.Entites.dll
+C:\git-repos\otel-sinif\Otel.Entites\bin\Release\netcoreapp3.1\Otel.Entites.pdb
+C:\git-repos\otel-sinif\Otel.Entites\bin\Release\netcoreapp3.1\Otel.Core.dll
+C:\git-repos\otel-sinif\Otel.Entites\bin\Release\netcoreapp3.1\Otel.Core.pdb
+C:\git-repos\otel-sinif\Otel.Entites\obj\Release\netcoreapp3.1\Otel.Entites.csproj.AssemblyReference.cache
+C:\git-repos\otel-sinif\Otel.Entites\obj\Release\netcoreapp3.1\Otel.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-repos\otel-sinif\Otel.Entites\obj\Release\netcoreapp3.1\Otel.Entites.AssemblyInfoInputs.cache
+C:\git-repos\otel-sinif\Otel.Entites\obj\Release\netcoreapp3.1\Otel.Entites.AssemblyInfo.cs
+C:\git-repos\otel-sinif\Otel.Entites\obj\Release\netcoreapp3.1\Otel.Entites.csproj.CoreCompileInputs.cache
+C:\git-repos\otel-sinif\Otel.Entites\obj\Release\netcoreapp3.1\Otel.Entites.csproj.CopyComplete
+C:\git-repos\otel-sinif\Otel.Entites\obj\Release\netcoreapp3.1\Otel.Entites.dll
+C:\git-repos\otel-sinif\Otel.Entites\obj\Release\netcoreapp3.1\Otel.Entites.pdb
